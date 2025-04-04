@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+from gwesmap import __main__
+__main__.entry_point()
